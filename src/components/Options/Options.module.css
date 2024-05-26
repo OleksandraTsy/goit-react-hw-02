@@ -1,0 +1,11 @@
+.options {
+    margin-bottom: 8px;
+}
+
+.btn {
+    border: 1px solid rgb(52, 20, 20);
+    border-radius: 4px;
+    background-color: rgb(228, 178, 129);
+    margin-right: 8px;
+    padding: 8px 16px;
+}
